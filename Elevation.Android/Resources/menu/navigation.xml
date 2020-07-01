@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_knowledge"
+        android:icon="@drawable/baseline_book_24"
+        android:title="@string/title_knowledge" />
+    <item
+        android:id="@+id/navigation_quests"
+        android:icon="@drawable/baseline_assignment_late_24"
+        android:title="@string/title_quests" />
+    <item
+        android:id="@+id/navigation_game"
+        android:icon="@drawable/baseline_control_camera_24"
+        android:title="@string/title_game" />
+    <item
+        android:id="@+id/navigation_inventory"
+        android:icon="@drawable/baseline_work_24"
+        android:title="@string/title_inventory" />
+    <item
+        android:id="@+id/navigation_character"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="@string/title_character" />
+</menu>

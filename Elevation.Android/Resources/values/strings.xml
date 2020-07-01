@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Elevation.Client.Android</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_knowledge">Знания</string>
+    <string name="title_quests">Задания</string>
+    <string name="title_game">Игра</string>
+    <string name="title_inventory">Инвентарь</string>
+    <string name="title_character">Персонаж</string>
+</resources>
